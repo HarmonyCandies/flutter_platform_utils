@@ -1,0 +1,13 @@
+name: flutter_platform_utils
+description: A utility to check the platform for ohos
+version: 1.0.0
+repository: https://github.com/harmonycandies/flutter_platform_utils
+topics:
+  - platform
+  - ohos
+  - harmony-os
+  - openharmony
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+
